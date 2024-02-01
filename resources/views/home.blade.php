@@ -39,17 +39,6 @@
 	</head>		
 	<body>
 
-		<!-- Loader -->
-		<div class="page-loader">
-			<div class="page-loader-inner">
-				<img src="assets/img/icons/loader.svg" alt="Loader">
-				<label><i class="fa-solid fa-circle"></i></label>
-				<label><i class="fa-solid fa-circle"></i></label>
-				<label><i class="fa-solid fa-circle"></i></label>
-			</div>
-		</div>
-		<!-- /Loader -->
-
 		<!-- Main Wrapper -->
 		<div class="main-wrapper">
 
@@ -112,72 +101,8 @@
 									</li>
 								</ul>
 							</li>
-							<li class="has-submenu">
-								<a href="javascript:void(0);">Agent <i class="fas fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li><a href="agent-grid.html">Agent  Grid</a></li>
-                                    <li><a href="agent-list.html">Agent  List</a></li>
-                                    <li><a href="agent-grid-sidebar.html">Agent Grid With Sidebar</a></li>
-                                    <li><a href="agent-list-sidebar.html">Agent List With Sidebar</a></li>
-                                    <li><a href="agent-details.html">Agent Details</a></li>
-								</ul>
-							</li>
-                            <li class="has-submenu">
-								<a href="javascript:void(0);">Agency <i class="fas fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li><a href="agency-grid.html">Agency  Grid</a></li>
-                                    <li><a href="agency-list.html">Agency  List</a></li>
-                                    <li><a href="agency-grid-sidebar.html">Agency Grid With Sidebar</a></li>
-                                    <li><a href="agency-list-sidebar.html">Agency List With Sidebar</a></li>
-                                    <li><a href="agency-details.html">Agency Details</a></li>
-								</ul>
-							</li>
-							<li class="has-submenu">
-								<a href="javascript:void(0);">Pages <i class="fas fa-chevron-down"></i></a>
-								<ul class="submenu">
-								    <li><a href="about-us.html">About Us</a></li>
-									<li class="has-submenu">
-										<a href="javascript:void(0);">Authentication</a>
-										<ul class="submenu">
-											<li><a href="register.html">Signup</a></li>
-											<li><a href="login.html">Signin</a></li>
-											<li><a href="forgot-password.html">Forgot Password</a></li>
-											<li><a href="reset-password.html">Reset Password</a></li>
-										</ul>
-									</li>
-									<li><a href="invoice-details.html">Invoice Details</a></li>
-									<li class="has-submenu">
-										<a href="javascript:void(0);">Error Page</a>
-										<ul class="submenu">
-											<li><a href="error-404.html">404 Error</a></li>
-											<li><a href="error-500.html">500 Error</a></li>
-										</ul>
-									</li>
-									<li><a href="pricing.html">Pricing</a></li>
-									<li><a href="faq.html">FAQ</a></li>
-									<li><a href="gallery.html">Gallery</a></li>
-									<li><a href="our-team.html">Our Team</a></li>
-									<li><a href="testimonial.html">Testimonials</a></li>
-									<li><a href="terms-condition.html">Terms & Conditions</a></li>
-									<li><a href="privacy-policy.html">Privacy Policy</a></li>									
-									<li><a href="maintenance.html">Maintenance</a></li>
-									<li><a href="coming-soon.html">Coming Soon</a></li>
-								</ul>
-							</li>
-							<li class="has-submenu">
-								<a href="javascript:void(0);">Blog <i class="fas fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li><a href="blog-list.html">Blog List</a></li>
-									<li><a href="blog-grid.html">Blog Grid</a></li>
-									<li><a href="blog-details.html">Blog Details</a></li>	
-								</ul>
-							</li>
-							<li><a href="contact-us.html">Contact Us</a></li>
-							<li class="searchbar">
-								<a href="javascript:void(0);">
-									<img src="assets/img/icons/search-icon.svg" alt="img">
-								</a>
-							</li>
+
+
 							<li class="login-link"><a href="login.html">Sign Up</a></li>
 							<li class="login-link"><a href="register.html">Sign In</a></li>
 						</ul>
